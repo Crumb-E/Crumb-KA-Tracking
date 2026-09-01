@@ -23,4 +23,4 @@ Oh, also I need a portfolio to show I am as skilled as I say I am.
 To this end I have set out with the goals of learning low level development and building a portfolio with it. I am passionate about my field and do not want to throw my hands up without giving it a proper go. Also regardless I intend to use these skills on personal projects. So I have resolved to construct a portfolio.
 
 ### Index
-[LearnOpenGL Log.](Hello_SDL/Hello_SDL_1)
+[LearnOpenGL Log.](Hello_SDL/Hello_SDL_1.md)
