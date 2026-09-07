@@ -16,4 +16,5 @@ Some takeaways from what I read I wanted to write down.
 When I told my dad about my goal of a benchmark renderer he got excited about it with me and we talked about rendering tech for a bit. Also he offered to model a custom benchmark scene to test importing blender models. So that is now an addition I am wanting to add in.
 
 One thing I have heard repeatedly is making the first triangle is them major hurdle. Well, the tutorial seems to be backing up these claims.
+
 ![Tutorial excerpt saying making triangles is hard bro.](Media/CrumDoc-2-1.png)
