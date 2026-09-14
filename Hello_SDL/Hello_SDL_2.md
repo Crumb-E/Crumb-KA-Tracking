@@ -55,4 +55,4 @@ I had an error rendering the triangle and narrowed it down to the shaders. Basic
 
 ![Triangles are indeed complicated.](Media/CrumDoc-2-6.png)
 
-This did end up feeling more esoteric compared to my other programming work. Was kinda of cool though, and satisfying to get working and wrap my head around. Hopefully it's true this is (one of) the hardest parts of OpenGL because I found it very doable.
+This did end up feeling more esoteric compared to my other programming work. Was kinda of cool though, and satisfying to get working and wrap my head around. Hopefully it's true this is (one of) the hardest parts of OpenGL because I found it hard but very doable regardless.
