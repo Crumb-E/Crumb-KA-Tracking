@@ -56,3 +56,10 @@ I had an error rendering the triangle and narrowed it down to the shaders. Basic
 ![Triangles are indeed complicated.](Media/CrumDoc-2-6.png)
 
 This did end up feeling more esoteric compared to my other programming work. Was kinda of cool though, and satisfying to get working and wrap my head around. Hopefully it's true this is (one of) the hardest parts of OpenGL because I found it hard but very doable regardless.
+
+### Tuesday Again
+More shader stuff. I won't go over it because philosophically it's the same as what I've already talked about.
+
+Though I've now reached the point where translating from C to C++ will actually be eventful since the tutorial is using Classes, which I ain't doing.
+
+![Triangle RGB wheel woop woop.](Media/CrumDoc-2-7.png)
